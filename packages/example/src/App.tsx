@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 // import './styles.css';
-import VirtualScroll from 'use-virtualized';
+import VirtualScroll from 'iris-virtualized';
 
 const colors = ['red', 'green', 'blue', 'yellow'];
 
